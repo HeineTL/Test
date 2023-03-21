@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kåre operasjonstest", "Tes
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FriendFinder", "FriendFinder\FriendFinder.csproj", "{BA84ACC2-E3F9-41A3-AD4E-FF44D451DEFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bossfight", "Bossfight\Bossfight.csproj", "{9C572A4E-10F4-4BCA-B87B-12B5D58DD445}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bossfight", "Bossfight\Bossfight.csproj", "{9C572A4E-10F4-4BCA-B87B-12B5D58DD445}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PasswordGenerator", "PasswordGenerator\PasswordGenerator.csproj", "{76F23009-931B-4F0C-8B0E-DC001F84D0FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pure puzzles", "Pure puzzles\Pure puzzles.csproj", "{255243AC-1BB1-4A09-9D6C-56BDE9958C44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{9C572A4E-10F4-4BCA-B87B-12B5D58DD445}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C572A4E-10F4-4BCA-B87B-12B5D58DD445}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C572A4E-10F4-4BCA-B87B-12B5D58DD445}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76F23009-931B-4F0C-8B0E-DC001F84D0FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76F23009-931B-4F0C-8B0E-DC001F84D0FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76F23009-931B-4F0C-8B0E-DC001F84D0FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76F23009-931B-4F0C-8B0E-DC001F84D0FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{255243AC-1BB1-4A09-9D6C-56BDE9958C44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{255243AC-1BB1-4A09-9D6C-56BDE9958C44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{255243AC-1BB1-4A09-9D6C-56BDE9958C44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{255243AC-1BB1-4A09-9D6C-56BDE9958C44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
