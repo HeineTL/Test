@@ -21,9 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BattleArena", "BattleArena\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Presidents", "Presidents\Presidents.csproj", "{E8A4164F-61B0-40E7-B0F4-9E53B33CD0BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz", "Quiz\Quiz.csproj", "{17360675-2398-4419-9E96-FB98D22EE68D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quiz", "Quiz\Quiz.csproj", "{17360675-2398-4419-9E96-FB98D22EE68D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tippekupong", "Tippekupong\Tippekupong.csproj", "{78215604-7A1F-48ED-9896-582FFA576268}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tippekupong", "Tippekupong\Tippekupong.csproj", "{78215604-7A1F-48ED-9896-582FFA576268}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brusmaskin", "Brusmaskin\Brusmaskin.csproj", "{C3608510-DB7A-4541-9581-8DD72D3BAB7F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{78215604-7A1F-48ED-9896-582FFA576268}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78215604-7A1F-48ED-9896-582FFA576268}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78215604-7A1F-48ED-9896-582FFA576268}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3608510-DB7A-4541-9581-8DD72D3BAB7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3608510-DB7A-4541-9581-8DD72D3BAB7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3608510-DB7A-4541-9581-8DD72D3BAB7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3608510-DB7A-4541-9581-8DD72D3BAB7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
